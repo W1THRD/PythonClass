@@ -54,7 +54,7 @@ A lobotomy-like experience, created by me and my friend Ky. It uses 199 differen
 Also, I have no idea why we called it "scream2".
 
 #### Protein Maker (python2/protein_maker/)
-A really cool project I made, which combines my knowledge of python dictionaries (learned from a book) and protein translation/transcription (learned from Biolog class- seriously one of the coolest science things I've learned). All you have to do is type in the DNA base pairs you start with (Using A, T, C, and G), and my program will convert them into a set of amino acids, which make up a protein. If you notice any mistakes or glitches in it, please tell me.
+A really cool project I made, which combines my knowledge of python dictionaries (learned from a book) and protein translation/transcription (learned from Biolog class- seriously one of the coolest science things I've learned). All you have to do is type in the DNA base pairs you start with (Using A, T, C, and G), and my program will convert them into a set of amino acids, which make up a protein. If you notice any mistakes or glitches in it, please report it in [issues](https://github.com/W1THRD/PythonClass/issues).
 
 #### Platforming (python2/platforming)
 I went through the painstakingly annoying progress of coding a buggy physics engine TWICE (the first time I accidentally deleted it), and so we have this. There's still lots of weird collision problems I don't know how to fix, maybe one day I will figure it out. 

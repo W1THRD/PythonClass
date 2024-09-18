@@ -85,7 +85,7 @@ class UIManager:
             
             # draw centered subtitle
             self.subtitle.fgcolor = (225, 225, 225)
-            self.centerText(window, self.subtitle, "A game by Porter Engh", win_size, 120)
+            self.centerText(window, self.subtitle, "A game by W1THRD", win_size, 120)
             
             # draw button with text
             self.button_text.fgcolor = (255, 255, 255)
